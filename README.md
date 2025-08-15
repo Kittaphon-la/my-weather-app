@@ -6,3 +6,7 @@
 <br>
 ขั้นตอนที่ 2 เขียนโค้ดลงใน vs code
 <img width="1149" height="767" alt="image" src="https://github.com/user-attachments/assets/a26fbe59-2f93-494e-a58c-38afa919853c" />
+<br>
+<br>
+<br>
+ชั้นตอนที่ 3 
